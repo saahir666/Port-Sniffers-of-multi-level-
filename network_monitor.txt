@@ -1,0 +1,6 @@
+[2025-11-17 17:16:18] Python Network + DNS Logger Started...
+[2025-11-17 17:16:18] [DNS UDP SERVER] Listening on UDP port 53
+[2025-11-17 17:16:18] [DNS TCP SERVER] Listening on TCP port 53
+[2025-11-17 17:29:31] Python Network + DNS Logger Started...
+[2025-11-17 17:29:31] [DNS TCP SERVER] Listening on TCP port 53
+[2025-11-17 17:32:10] [DEVICE] IP=192.168.0.1, MAC=d4:6e:0e:c0:8a:88
